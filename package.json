@@ -167,6 +167,9 @@
     "@esbuild/darwin-arm64": "0.15.18",
     "@rollup/rollup-linux-x64-gnu": "^4.24.0"
   },
+  "peerDependencies": {
+    "@trust0/ridb": "^0.4.6-rc.4"
+  },
   "overrides": {
     "ws": "^8.17.1"
   }
