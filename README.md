@@ -6,7 +6,7 @@
 
 Identus is a self-sovereign identity (SSI) platform and service suite for
 verifiable data and digital identity. Built on Cardano, as a distributed ledger, 
-it offers core infrastructure for issuing DIDs (Decentralized identifiers) and 
+it offers core infrastructure for issuing DIDs (decentralized identifiers) and 
 verifiable credentials, alongside tools and frameworks to help expand your ecosystem.
 The complete platform is separated into multiple repositories:
 * [Cloud Agent](https://github.com/hyperledger/identus-cloud-agent) - Repo that contains the Cloud Agent that provides self-sovereign identity services to build products and solutions.
